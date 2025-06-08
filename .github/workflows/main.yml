@@ -1,0 +1,47 @@
+name: Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      filename:
+        description: 'Name of file for release'
+        required: true
+        type: string
+      release_title:
+        description: 'Name of title for release'
+        required: true
+        type: string
+      release_tag:
+        description: 'Tag for the release'
+        required: true
+        type: string
+      release_description:
+        description: 'Description for the release'
+        required: false
+        type: string
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check if file exists
+        run: |
+          if [ ! -f "${{ github.event.inputs.filename }}" ]; then
+            echo "${{ github.event.inputs.filename }} not found"
+            exit 1
+          fi
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.release_tag }}
+          name: ${{ github.event.inputs.release_title }}
+          body: ${{ github.event.inputs.release_description }}
+          files: ${{ github.event.inputs.filename }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
