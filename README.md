@@ -3,7 +3,9 @@
 
 # CAT CARTOON.zip
 [![License Button]][License Link]
-<img width="750" src="CatCartoon.png"/>
+
+<img width="550" src="CatCartoon.png"/>
+
 The unofficial git mirror of the CAT CARTOON.zip Turbosquid 3D model
 
 ## Credits:
