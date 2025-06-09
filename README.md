@@ -1,7 +1,7 @@
-[License Button]: https://img.shields.io/badge/License-Apache-red
+[License Button]: https://img.shields.io/badge/License-Apache_2.0-red
 [License Link]: https://github.com/Andres9890/CAT-CARTOON.zip/blob/main/LICENSE-repo 'Apache License.'
 
-[License2 Button]: https://img.shields.io/badge/License-ANS4.0-blue
+[License2 Button]: https://img.shields.io/badge/License-ANS_4.0-blue
 [License2 Link]: https://github.com/Andres9890/CAT-CARTOON.zip/blob/main/LICENSE-outfit7 'Attribution-NonCommercial-ShareAlike 4.0 International License.'
 
 # CAT CARTOON.zip
