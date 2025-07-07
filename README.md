@@ -1,10 +1,8 @@
 [License Button]: https://img.shields.io/badge/License-Apache_2.0-silver?logo=apache&logoColor=white
 [License Link]: https://github.com/Andres9890/CAT-CARTOON.zip/blob/main/LICENSE 'Apache 2.0 License.'
-
 [IA Button]: https://img.shields.io/badge/Archive.org_Page-black?logo=internetarchive&logoColor=white
 [IA Link]:
 https://archive.org/details/cat-cartoon.zip 'Archive.org Page.'
-
 [Ts Button]: https://img.shields.io/badge/Original_Turbosquid_Page-orange?logo=turbosquid&logoColor=white
 [Ts Link]:
 https://web.archive.org/web/20090216180017/https://www.turbosquid.com/FullPreview/Index.cfm/ID/223226 'Original Turbosquid Page.'
