@@ -20,8 +20,16 @@ Found by [addy1983 (Addy Gamer)](https://www.youtube.com/@addy1983) on one of hi
 
 Original model made by [Andrey Kravchenko](https://www.turbosquid.com/Search/Artists/Andrey-Kravchenko)
 
+## What do i download?:
+Note: the model is for 3dsmax only
+
+[4.max](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Rigged/4.max): Rigged model
+[Cat model without bones.max](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Non-rigged/Cat%20model%20without%20bones.max): Non-rigged model
+[Textures](https://github.com/Andres9890/CAT-CARTOON.zip/tree/main/Textures): Textures
+[Cat.zip](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Cat.zip): Full zip
+
 ## License:
 The repo and it's content is licsensed under the [`Apache 2.0 License`](https://github.com/Andres9890/CAT-CARTOON.zip/blob/main/LICENSE)
 
 >[!WARNING]
-> In no way am I responsible for anything that happens/might happen when you use/distribute/edit this 3D model, including, but not limited to, legal and copyright issues
+> In no way am I responsible for anything that happens/might happen when you use/distribute/edit this 3D model in any way, including, but not limited to, legal and copyright issues
