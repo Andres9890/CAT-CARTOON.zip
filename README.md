@@ -16,20 +16,28 @@ https://web.archive.org/web/20090216180017/https://www.turbosquid.com/FullPrevie
 The unofficial git mirror of the CAT CARTOON.zip Turbosquid 3D model
 
 ## Credits:
-Found by [addy1983 (Addy Gamer)](https://www.youtube.com/@addy1983) on one of his hard drives
+Non-rigged model was found by [addy1983 (Addy Gamer)](https://www.youtube.com/@addy1983) on one of his hard drives
+
+Rigged model (animated) was found by [Fairowranthurus (Erik Beyer)](https://www.youtube.com/@Fairowranthurus) on his hard drive
+
+Rigged model (tpose) was made by [B!3LSFM](https://www.youtube.com/@Bi3LSFM) via the rigged animated model
 
 Original model made by [Andrey Kravchenko](https://www.turbosquid.com/Search/Artists/Andrey-Kravchenko)
 
 ## What do i download?:
 Note: the model is for 3dsmax only
 
-[4.max](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Rigged/4.max): Rigged model
+[4.max](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Rigged/Animation/4.max): Rigged model (animated)
+
+[Cat tpose01.max](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Rigged/Tpose/Cat%20tpose01.max): Rigged model (tpose)
 
 [Cat model without bones.max](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Non-rigged/Cat%20model%20without%20bones.max): Non-rigged model
 
 [Textures](https://github.com/Andres9890/CAT-CARTOON.zip/tree/main/Textures): Textures
 
-[Cat.zip](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Cat.zip): Full zip
+[Cat-(animation).zip](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Cat-(animation).zip): Full rigged animated zip
+
+[Cat-(tpose).zip](https://raw.githubusercontent.com/Andres9890/CAT-CARTOON.zip/refs/heads/main/Cat-(tpose).zip): Full rigged tpose zip
 
 ## License:
 The repo and it's content is licsensed under the [`Apache 2.0 License`](https://github.com/Andres9890/CAT-CARTOON.zip/blob/main/LICENSE)
